@@ -1,0 +1,13 @@
+{
+  "title": "Bias-Mitigation: code and data for “Mitigating Algorithmic Bias in Multiclass CNN Classifications Using Polynomial Causal Modeling”",
+  "upload_type": "dataset",
+  "description": "<p>Code and data supporting the article “Mitigating Algorithmic Bias in Multiclass CNN Classifications Using Polynomial Causal Modeling” (submitted to Discover Computing). Contents: the Python notebook for data preparation, DeepFace emotion labelling, CNN training and prediction; the R notebook for causal bias detection and mitigation; the original prediction file multiclass_data.csv (5,477 test images) on which all results are based; and DeepFace emotion labels for the FairFace images. FairFace images are not redistributed; see the README for the source.</p>",
+  "creators": [
+    {"name": "Amebley, Kisseh", "affiliation": "Kwame Nkrumah University of Science and Technology, Kumasi, Ghana"},
+    {"name": "Owusu-Agyemang, Kwabena", "affiliation": "Kwame Nkrumah University of Science and Technology, Kumasi, Ghana"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["algorithmic fairness", "causal modeling", "bias mitigation", "emotion recognition", "multiclass classification", "FairFace", "DeepFace"],
+  "language": "eng"
+}
