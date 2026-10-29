@@ -24,7 +24,7 @@ Code and data for the article **"Mitigating Algorithmic Bias in Multiclass CNN C
 ## Notes
 
 - **Age labels.** In `multiclass_data.csv`, the FairFace age brackets "10–19" and "3–9" appear as "19-Oct" and "9-Mar", because spreadsheet software converted them to dates. The R notebook converts them to 19 and 9 (upper bounds); all other brackets are coded as midpoints, and "more than 70" as 75.
-- **Software versions:** Python [3.x], TensorFlow/Keras [version], DeepFace [0.0.93]; R [version] with [packages].
+- **Software versions:** Python [3.13.16], TensorFlow/Keras [2.12.0], DeepFace [0.0.93]; R [4.6.1].
 
 ## Licence
 
